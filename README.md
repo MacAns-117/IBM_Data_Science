@@ -5,9 +5,9 @@
 
 ### Final Assignment:
 
-####Analyzing Historical Stock/ Revenue Data and Building A Dashboard
+#### Analyzing Historical Stock/ Revenue Data and Building A Dashboard
 
-####Tasks to perform:
+#### Tasks to perform:
     
     Task 1: Extracting Tesla Stock Data Using yfinance.
     
